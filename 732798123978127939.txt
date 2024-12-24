@@ -1,2 +1,1 @@
-- Released paid version
-- Triggerbot rework
+- Fixed fps drops
